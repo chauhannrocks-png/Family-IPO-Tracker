@@ -14,11 +14,9 @@ requirements = python3,kivy,kivymd
 orientation = portrait
 fullscreen = 0
 
-icon.filename = %(source.dir)s/finrec_logo.png
+icon.filename = %(source.dir)s/app_icons.png
 
 android.archs = arm64-v8a
-
-android.permissions =
 
 
 [buildozer]
