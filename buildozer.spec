@@ -9,7 +9,7 @@ source.include_exts = py,kv,png,jpg,jpeg,atlas,db
 
 version = 1.0
 
-requirements = python3,kivy==2.3.1,kivymd,materialyoucolor,sqlite3
+requirements = python3,kivy==2.3.1,kivymd==2.0.0,materialyoucolor==3.0.3,sqlite3
 
 orientation = portrait
 fullscreen = 0
