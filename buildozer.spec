@@ -16,7 +16,6 @@ presplash.filename = %(source.dir)s/app_icons.png
 orientation = portrait
 fullscreen = 0
 
-icon.filename = %(source.dir)s/app_icons.png
 
 android.archs = arm64-v8a
 
